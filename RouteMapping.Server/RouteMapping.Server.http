@@ -1,0 +1,6 @@
+@RouteMapping.Server_HostAddress = http://localhost:5168
+
+GET {{RouteMapping.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

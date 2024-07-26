@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteMapping.Server", "RouteMapping.Server\RouteMapping.Server.csproj", "{56B3A7D0-5E89-438D-91D4-7F5EFC219179}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "routemapping.client", "routemapping.client\routemapping.client.esproj", "{C947D1A1-3BD8-4786-B57C-7BF6320605E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56B3A7D0-5E89-438D-91D4-7F5EFC219179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B3A7D0-5E89-438D-91D4-7F5EFC219179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B3A7D0-5E89-438D-91D4-7F5EFC219179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B3A7D0-5E89-438D-91D4-7F5EFC219179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C947D1A1-3BD8-4786-B57C-7BF6320605E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C947D1A1-3BD8-4786-B57C-7BF6320605E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C947D1A1-3BD8-4786-B57C-7BF6320605E8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C947D1A1-3BD8-4786-B57C-7BF6320605E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C947D1A1-3BD8-4786-B57C-7BF6320605E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C947D1A1-3BD8-4786-B57C-7BF6320605E8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7ED7F8F-D58D-4301-9FEE-D73133E423DE}
+	EndGlobalSection
+EndGlobal
