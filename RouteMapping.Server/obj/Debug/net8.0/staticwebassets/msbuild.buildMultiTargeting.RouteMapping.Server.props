@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RouteMapping.Server.props" />
+</Project>

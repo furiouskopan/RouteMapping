@@ -10,7 +10,7 @@
         public DbSet<Waypoint> Waypoints { get; set; }
         public DbSet<SavedRoute> SavedRoutes { get; set; }
 
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)   
             : base(options)
         {
         }

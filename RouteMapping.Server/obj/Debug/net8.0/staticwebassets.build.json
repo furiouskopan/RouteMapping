@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "Ybbet4ZWrqsMp5EFTxHUTJfQm+Up9mYZ7MaRa7HlwmI=",
+  "Source": "RouteMapping.Server",
+  "BasePath": "_content/RouteMapping.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\user\\source\\repos\\RouteMapping\\routemapping.client\\routemapping.client.esproj",
+      "Version": 2,
+      "Source": "routemapping.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
