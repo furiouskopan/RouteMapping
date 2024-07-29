@@ -1,5 +1,6 @@
+// src/app/map/map.component.ts
 import { Component, OnInit } from '@angular/core';
-import { tileLayer, latLng, Map } from 'leaflet';
+import { tileLayer, latLng } from 'leaflet';
 
 @Component({
   selector: 'app-map',
@@ -7,16 +8,15 @@ import { tileLayer, latLng, Map } from 'leaflet';
   styleUrls: ['./map.component.css']
 })
 export class MapComponent implements OnInit {
-  options = {
-    layers: [
-      tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 18, attribution: '...' })
-    ],
-    zoom: 13,
-    center: latLng(41.437, 22.641) // Centered on Strumica
-  };
+  options: any;
 
-  constructor() { }
-
-  ngOnInit() {
+  ngOnInit(): void {
+    this.options = {
+      layers: [
+        tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 18, attribution: '...' })
+      ],
+      zoom: 13,
+      center: latLng(41.437, 22.641) // Centered on Strumica
+    };
   }
 }

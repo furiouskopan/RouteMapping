@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RouteMapping.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc1aa129e64f9f0417b16a4ae935597b700341e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7018baf972a3c18bf06a2540f0ccc2c5c8161860")]
 [assembly: System.Reflection.AssemblyProductAttribute("RouteMapping.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RouteMapping.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

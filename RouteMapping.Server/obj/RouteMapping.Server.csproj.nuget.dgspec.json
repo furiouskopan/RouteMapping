@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\RouteMapping\\RouteMapping.Server\\RouteMapping.Server.csproj": {}
+    "C:\\Users\\user\\source\\repos\\RouteMapping\\routemapping.server\\RouteMapping.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\RouteMapping\\RouteMapping.Server\\RouteMapping.Server.csproj": {
+    "C:\\Users\\user\\source\\repos\\RouteMapping\\routemapping.server\\RouteMapping.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\RouteMapping\\RouteMapping.Server\\RouteMapping.Server.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\RouteMapping\\routemapping.server\\RouteMapping.Server.csproj",
         "projectName": "RouteMapping.Server",
-        "projectPath": "C:\\Users\\user\\source\\repos\\RouteMapping\\RouteMapping.Server\\RouteMapping.Server.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\RouteMapping\\routemapping.server\\RouteMapping.Server.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\RouteMapping\\RouteMapping.Server\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\RouteMapping\\routemapping.server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.5.24307.3/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

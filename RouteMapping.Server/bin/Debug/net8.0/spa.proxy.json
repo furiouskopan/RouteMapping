@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:4200",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\user\\source\\repos\\RouteMapping\\RouteMapping.Server\\..\\routemapping.client",
+"WorkingDirectory": "C:\\Users\\user\\source\\repos\\RouteMapping\\routemapping.server\\..\\routemapping.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }
