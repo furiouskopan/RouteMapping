@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tVB+SIAukrc=",
+  "dgSpecHash": "o3AWxvFp/rc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\RouteMapping\\routemapping.server\\RouteMapping.Server.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\RouteMapping\\RouteMapping.Server\\RouteMapping.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.7\\microsoft.aspnetcore.spaproxy.8.0.7.nupkg.sha512",

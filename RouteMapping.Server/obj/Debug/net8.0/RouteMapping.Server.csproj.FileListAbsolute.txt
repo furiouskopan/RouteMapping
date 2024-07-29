@@ -110,6 +110,3 @@ C:\Users\user\source\repos\RouteMapping\RouteMapping.Server\obj\Debug\net8.0\ref
 C:\Users\user\source\repos\RouteMapping\RouteMapping.Server\obj\Debug\net8.0\RouteMapping.Server.pdb
 C:\Users\user\source\repos\RouteMapping\RouteMapping.Server\obj\Debug\net8.0\RouteMapping.Server.genruntimeconfig.cache
 C:\Users\user\source\repos\RouteMapping\RouteMapping.Server\obj\Debug\net8.0\ref\RouteMapping.Server.dll
-C:\Users\user\source\repos\RouteMapping\routemapping.server\bin\Debug\net8.0\RouteMapping.Server.staticwebassets.endpoints.json
-C:\Users\user\source\repos\RouteMapping\routemapping.server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\user\source\repos\RouteMapping\routemapping.server\obj\Debug\net8.0\staticwebassets\msbuild.RouteMapping.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "h1i94JQIsTq87feo0J867ooF0WuzdJWr2ZBqkP5ZttI=",
+  "Hash": "Ybbet4ZWrqsMp5EFTxHUTJfQm+Up9mYZ7MaRa7HlwmI=",
   "Source": "RouteMapping.Server",
   "BasePath": "_content/RouteMapping.Server",
   "Mode": "Default",
@@ -11,14 +11,13 @@
       "Version": 2,
       "Source": "routemapping.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     }
   ],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }
