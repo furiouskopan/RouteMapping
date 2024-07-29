@@ -22,6 +22,7 @@
     <PackageJsonDependenciesAngularRouter Condition="$(PackageJsonDependenciesAngularRouter) == ''">^17.3.0</PackageJsonDependenciesAngularRouter>
     <PackageJsonDependenciesAsymmetrikNgxLeaflet Condition="$(PackageJsonDependenciesAsymmetrikNgxLeaflet) == ''">^17.0.0</PackageJsonDependenciesAsymmetrikNgxLeaflet>
     <PackageJsonDependenciesJestEditorSupport Condition="$(PackageJsonDependenciesJestEditorSupport) == ''">*</PackageJsonDependenciesJestEditorSupport>
+    <PackageJsonDependenciesLeaflet Condition="$(PackageJsonDependenciesLeaflet) == ''">^1.9.4</PackageJsonDependenciesLeaflet>
     <PackageJsonDependenciesRunScriptOs Condition="$(PackageJsonDependenciesRunScriptOs) == ''">*</PackageJsonDependenciesRunScriptOs>
     <PackageJsonDependenciesRxjs Condition="$(PackageJsonDependenciesRxjs) == ''">~7.8.0</PackageJsonDependenciesRxjs>
     <PackageJsonDependenciesTslib Condition="$(PackageJsonDependenciesTslib) == ''">^2.3.0</PackageJsonDependenciesTslib>
@@ -30,6 +31,7 @@
     <PackageJsonDevdependenciesAngularCli Condition="$(PackageJsonDevdependenciesAngularCli) == ''">^17.3.8</PackageJsonDevdependenciesAngularCli>
     <PackageJsonDevdependenciesAngularCompilerCli Condition="$(PackageJsonDevdependenciesAngularCompilerCli) == ''">^17.3.0</PackageJsonDevdependenciesAngularCompilerCli>
     <PackageJsonDevdependenciesTypesJasmine Condition="$(PackageJsonDevdependenciesTypesJasmine) == ''">~5.1.0</PackageJsonDevdependenciesTypesJasmine>
+    <PackageJsonDevdependenciesTypesLeaflet Condition="$(PackageJsonDevdependenciesTypesLeaflet) == ''">^1.9.12</PackageJsonDevdependenciesTypesLeaflet>
     <PackageJsonDevdependenciesJasmineCore Condition="$(PackageJsonDevdependenciesJasmineCore) == ''">~5.1.0</PackageJsonDevdependenciesJasmineCore>
     <PackageJsonDevdependenciesKarma Condition="$(PackageJsonDevdependenciesKarma) == ''">~6.4.0</PackageJsonDevdependenciesKarma>
     <PackageJsonDevdependenciesKarmaChromeLauncher Condition="$(PackageJsonDevdependenciesKarmaChromeLauncher) == ''">~3.2.0</PackageJsonDevdependenciesKarmaChromeLauncher>
