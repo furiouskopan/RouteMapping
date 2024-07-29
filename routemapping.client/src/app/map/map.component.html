@@ -1,2 +1,5 @@
 <!-- src/app/map/map.component.html -->
-<div style="height: 800px;" leaflet [leafletOptions]="options"></div>
+<div style="height: 600px;" leaflet [leafletOptions]="options" (leafletMapReady)="onMapReady($event)">
+</div>
+<button (click)="startRoute()">Start Route</button>
+<button (click)="saveRoute()" [disabled]="!isCreatingRoute">Save Route</button>
