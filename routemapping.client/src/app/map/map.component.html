@@ -1,5 +1,13 @@
-<!-- src/app/map/map.component.html -->
-<div style="height: 600px;" leaflet [leafletOptions]="options" (leafletMapReady)="onMapReady($event)">
+<div>
+  <button (click)="startRoute()">Start Route</button>
+  <button (click)="saveRoute()">Save Route</button>
+  <button (click)="clearAllRoutes()">Clear All Routes</button>
+  <div>Distance: {{ routeDistance.toFixed(2) }} km</div>
+  <div>Duration: {{ routeDuration.toFixed(2) }} min</div>
 </div>
-<button (click)="startRoute()">Start Route</button>
-<button (click)="saveRoute()" [disabled]="!isCreatingRoute">Save Route</button>
+<div style="height: 500px; width: 100%;">
+  <div leaflet
+       [leafletOptions]="options"
+       (leafletMapReady)="onMapReady($event)"
+       (leafletClick)="onMapClick($event)"></div>
+</div>
